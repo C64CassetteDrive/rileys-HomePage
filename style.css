@@ -1,0 +1,19 @@
+
+body {
+  overflow-x: hidden;
+  background-color: black;
+  color: #8f7683;
+  font-family: Verdana;
+  background-image: url('puppylinux.jpg');
+  background-size: cover;
+}
+a {
+  color: Gold;
+}
+
+.container {
+  position: relative;
+  z-index: 0;
+  padding: 0;
+  margin: 0;
+}
